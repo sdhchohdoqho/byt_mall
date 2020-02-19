@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-9-18, 11:00:13
+    Author     : Lyceum
+*/
+.title-line{
+    height: 28px;
+    margin: 30px 100px auto;
+    border-bottom: 3px solid #fff;
+    text-align: center;
+}
+
+.inf-input{
+    position: relative;
+    font-size: 14px;
+    display: inline-block;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.inf-input-field{
+    display: inline-block;
+    font-size: inherit;
+    height: 40px;
+    line-height: 40px;
+    outline: 0;
+    padding: 0 15px;
+}
+
+.img1{
+    display: inline;
+}
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.paybar{
+    margin-top: 50px
+}
+
+.paybutton{
+    display: inline-block;
+    color: #FFF;
+    background-color: #9a1b13;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    white-space: nowrap;
+}
