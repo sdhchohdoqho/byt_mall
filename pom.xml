@@ -40,7 +40,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.15</version>
+      <version>8.0.16</version>
     </dependency>
     <!--引入数据库连接池管理数据库连接，使用druid-->
     <dependency>
@@ -133,7 +133,7 @@
             <dependency>
               <groupId>mysql</groupId>
               <artifactId>mysql-connector-java</artifactId>
-              <version>8.0.15</version>
+              <version>8.0.16</version>
             </dependency>
 
           </dependencies>
